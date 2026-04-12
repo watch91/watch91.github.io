@@ -4,7 +4,7 @@
 3. 执行操作：点击「开始加密/开始解密」，结果将自动显示在输出框中；
 4. 清空内容：点击「清空内容」可一键重置输入、输出框文本。
 
-如果你想在线使用此程序，请访问“https://watch91.github.io/%E6%B1%89%E8%AF%AD%E5%8A%A0%E5%AF%86v4.0.html”
+如果你想在线使用此程序，请[点击这里](https://watch91.github.io/%E6%B1%89%E8%AF%AD%E5%8A%A0%E5%AF%86v4.0.html)
 
 # Instructions for Chinese Character Encryption & Decryption Tool
 1. Select Mode: Click **Encryption Mode** or **Decryption Mode** to switch functions.
